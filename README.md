@@ -28,3 +28,6 @@
 ## 관리자 기능
 * __메일 전송:__ 중요한 공지를 메일로 발송.
 * __관리자 페이지:__ 사용자가 받은 신고수를 확인할 수 있으며, 관리자의 판단하여 사용자를 차단 혹은 차단을 해제할 수 있습니다.
+---
+# ERD
+![ERD파일](https://github.com/seungh22/BoardProject/blob/master/Board_ERD.png)
